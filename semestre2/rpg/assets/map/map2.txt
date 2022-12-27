@@ -1,0 +1,68 @@
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0                          0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0                          0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0                          0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0                          0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0                          0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0                          0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0                          0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0                          0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+###P                                                                                                             P#####
+###P                                                                                                             P#####
+###P                                                                                                             P#####
+###P                                                                                                             P#####
+###P                                                                                                             P#####
+###P                                                                                                             P#####
+###P                                                                                                             P#####
+###P                                                                                                             P#####
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+####                                                                                                             ######
+####0000000000000000                           0000000000000000000000000                         0000000000000000######
+####OOOOOOOOOOOOOOOO                           0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO                           0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO                           0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO                           0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO                           0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO                           0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO                           0OOOOOOOOOOOOOOOOOOOOOOOO                         OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOO0000000000000000000000000000OOOOOOOOOOOOOOOOOOOOOOOO0000000000000000000000000OOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+####OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO######
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################

@@ -1,0 +1,190 @@
+/*header*/
+h3
+{
+    float: left;
+    margin-top: 32px;
+    color: #444;
+    font-size: 45px;
+
+}
+
+nav
+{
+    float: right;
+    margin-top: 50px;
+}
+
+nav ul li
+{
+    float: left;
+    display: inline-block;
+}
+
+nav ul li a
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 30px;
+    color: #444;
+    text-decoration: none;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+/*body*/
+
+body {
+    font-family: "Trebuchet MS";
+}
+.menu {
+    display: flex;                /* Transformation en flexbox */
+    padding:0;                    /* Suppression des marges internes */
+    background-color: #ccc;       /* Ajout de la couleur d'arrière-plan */
+    justify-content: space-around;/* Alignements des liens dans le menu */
+}
+.menu li {
+    list-style-type: none ;       /* Suppression des puces */
+  
+}
+.menu a {
+    display:block;                /* Transformation en block */
+    min-width: 120px;             /* Largeur minimale des liens */   
+    
+    margin: 0.5rem;               /* Marges externes */
+    padding: 0.4rem 0;            /* Marges internes */
+    text-align: center;           /* Centrage du texte */   
+    background-color: #1ABC9C;    /* Arrière-plan */
+    color: #fff;                  /* Couleur du texte */
+    text-decoration: none;        /* Suppression du soulignement */
+    border: 1px solid #fff;       /* Ajout d'une bordure */
+    border-radius: 4px;           /* Arrondis des bordures */
+    
+    transition: all 1s ;          /* Ajout des effets de transition */
+}
+.menu a.actif {    
+    background-color: #000 ; 
+    color: #1ABC9C ;
+    border-color: #1ABC9C ;
+}
+.menu a:hover,
+.menu a:hover.actif{
+    background-color: #ed2794;
+    color: #ffe843;
+    border-color: #ffe843;
+}
+
+.epitech_logo {
+    height: 150px;
+    margin-right: 20px;
+    text-align: left;
+}
+
+.ef_logo {
+    height: 100px;
+    margin-right: 20px;
+    text-align: left;
+}
+
+.cef_logo {
+    height: 200px;
+    margin-right: 20px;
+    text-align: left;
+}
+
+.la_pro {
+    height: 200px;
+    margin-right: 20px;
+    text-align: left;
+}
+
+body {
+    font-family: "Trebuchet MS";
+}
+.menu {
+    display: flex;                /* Transformation en flexbox */
+    padding:0;                    /* Suppression des marges internes */
+    background-color: #ccc;       /* Ajout de la couleur d'arrière-plan */
+    justify-content: space-around;/* Alignements des liens dans le menu */
+}
+.menu li {
+    list-style-type: none ;       /* Suppression des puces */
+  
+}
+.menu a {
+    display:block;                /* Transformation en block */
+    min-width: 120px;             /* Largeur minimale des liens */   
+    
+    margin: 0.5rem;               /* Marges externes */
+    padding: 0.4rem 0;            /* Marges internes */
+    text-align: center;           /* Centrage du texte */   
+    background-color: #1ABC9C;    /* Arrière-plan */
+    color: #fff;                  /* Couleur du texte */
+    text-decoration: none;        /* Suppression du soulignement */
+    border: 1px solid #fff;       /* Ajout d'une bordure */
+    border-radius: 4px;           /* Arrondis des bordures */
+    
+    transition: all 1s ;          /* Ajout des effets de transition */
+}
+.menu a.actif {    
+    background-color: #000 ; 
+    color: #1ABC9C ;
+    border-color: #1ABC9C ;
+}
+.menu a:hover,
+.menu a:hover.actif{
+    background-color: #ed2794;
+    color: #ffe843;
+    border-color: #ffe843;
+}
+p {
+    font-size: 20px;
+}
+
+.container {
+    background-color: rgb(192, 192, 192);
+    width: 80%;
+        border-radius: 15px;
+}
+
+.skill {
+    background-color: rgb(116, 194, 92);
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+        border-radius: 15px;
+}
+
+.html {
+    width: 100%;
+}
+
+/*footer*/
+
+footer
+{
+    height: 300px;
+    background-color: darkblue;
+}
+
+footer h1
+{
+    color: black;
+    padding-top: 80px;
+}
+
+footer h2
+{
+    color: black;
+    font-size: 20px;
+    padding-top: 5px;
+}

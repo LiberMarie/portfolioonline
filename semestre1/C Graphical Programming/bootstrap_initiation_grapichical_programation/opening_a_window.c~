@@ -1,0 +1,18 @@
+#include <SFML/Graphics/RenderWindow.h>
+
+int main(void)
+{
+    sfRenderWindow *window;
+    sfVideoMode video_mode;
+
+    video_mode.width = 800;
+    video_mode.height = 800;
+    video_mode.bitsPerPixel = 32;
+
+    window = sfRenderWindow_isOpen(window))
+    {
+        sfRenderwindow_display(window);
+    }
+sfRenderWindow_destoy(window);
+    return(0);
+}
